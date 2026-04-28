@@ -4,7 +4,7 @@ A browser-native Physics-Informed Neural Network for Magnetic Resonance
 Spectroscopy brain disease classification.
 
 ## 🌐 Live Demo
-https://YOUR_USERNAME.github.io/mrs-pinn-benchmark/
+[https://YOUR_USERNAME.github.io/mrs-pinn-benchmark/](https://udayameister.github.io/mrs-pinn-benchmark)
 
 ## 🔬 Features
 - Synthetic MRS dataset generation (Lorentzian signal model)
