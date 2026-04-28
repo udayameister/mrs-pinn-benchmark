@@ -18,8 +18,8 @@ npm install
 npm run dev
 
 ## 📄 Reference
-Kumar et al. (2025). A Benchmark Web Application for MRS Data
+Udayakumar et al. (2025). A Benchmark Web Application for MRS Data
 Using Physics-Informed Neural Networks. Journal of Medical AI Systems.
 
 ## 📜 Licence
-MIT
+MITS
